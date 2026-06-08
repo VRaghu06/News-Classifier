@@ -1,3 +1,4 @@
+
 # News Classifier
 
 ## Overview
@@ -108,5 +109,3 @@ Visit:
 ```text
 http://localhost:8000/docs
 ```
-
-
